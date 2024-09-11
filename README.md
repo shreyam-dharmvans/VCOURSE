@@ -19,18 +19,18 @@ This project consists of two parts: a **Frontend** built with React and a **Back
 3. ##### In the first terminal (Backend):
 
        ###### Navigate to the Backend folder using Command:
-       **cd Backend**
+         cd Backend
 
        ###### Start the backend server:
-       **nodemon app.js**
+         nodemon app.js
 
 4.  ##### In the second terminal (Frontend):
 
        ###### Navigate to the frontend folder using Command:
-       **cd Frontend**
+         cd Frontend
 
        ###### Start the frontend server:
-       **npm run dev**
+          npm run dev
 
 5. ##### Notes
 
