@@ -21,6 +21,9 @@ This project consists of two parts: a **Frontend** built with React and a **Back
        ###### Navigate to the Backend folder using Command:
          cd Backend
 
+       ###### Install Dependencies using Command:
+         npm install
+
        ###### Start the backend server using Command:
          nodemon app.js
 
@@ -29,11 +32,14 @@ This project consists of two parts: a **Frontend** built with React and a **Back
        ###### Navigate to the frontend folder using Command:
          cd Frontend
 
+       ###### Install Dependencies using Command:
+         npm install
+
        ###### Start the frontend server using Command:
           npm run dev
 
 5. ##### The Website will be accessible at 
-       ###### http://localhost:5173 
+          http://localhost:5173 
 
 6. ##### Notes
 
