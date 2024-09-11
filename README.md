@@ -8,33 +8,34 @@ This project consists of two parts: a **Frontend** built with React and a **Back
 
 1. ##### Clone the repository:
    
-   **git clone https://github.com/your-username/your-repository.git**
+   **git clone https://github.com/shreyam-dharmvans/VCOURSE.git**
+
    **cd ALMENO_TASK**
    
 
 2. ##### Open two terminals:
-   One for Frontend and one for running Backend
+   ###### One for Frontend and one for running Backend
 
 3. ##### In the first terminal (Backend):
 
-  Navigate to the Backend folder using Command:
+  ###### Navigate to the Backend folder using Command:
   **cd Backend**
 
-  Start the backend server:
+  ###### Start the backend server:
   **nodemon app.js**
 
 4. ##### In the second terminal (Frontend):
 
-  Navigate to the frontend folder using Command:
+  ###### Navigate to the frontend folder using Command:
   **cd Frontend**
 
-  Start the frontend server:
+  ###### Start the frontend server:
   **npm run dev**
 
 5. ##### Notes
 
-  Ensure both terminals are running to enable communication between the frontend and backend.
+  ###### Ensure both terminals are running to enable communication between the frontend and backend.
 
-  The frontend will be accessible at http://localhost:5173 and the backend at http://localhost:8080.
+  ###### The frontend will be accessible at http://localhost:5173 and the backend at http://localhost:8080.
 
    
