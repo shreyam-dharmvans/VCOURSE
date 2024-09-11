@@ -18,24 +18,24 @@ This project consists of two parts: a **Frontend** built with React and a **Back
 
 3. ##### In the first terminal (Backend):
 
-  ###### Navigate to the Backend folder using Command:
-  **cd Backend**
+       ###### Navigate to the Backend folder using Command:
+       **cd Backend**
 
-  ###### Start the backend server:
-  **nodemon app.js**
+       ###### Start the backend server:
+       **nodemon app.js**
 
-4. ##### In the second terminal (Frontend):
+4.  ##### In the second terminal (Frontend):
 
-  ###### Navigate to the frontend folder using Command:
-  **cd Frontend**
+       ###### Navigate to the frontend folder using Command:
+       **cd Frontend**
 
-  ###### Start the frontend server:
-  **npm run dev**
+       ###### Start the frontend server:
+       **npm run dev**
 
 5. ##### Notes
 
-  ###### Ensure both terminals are running to enable communication between the frontend and backend.
+       ###### Ensure both terminals are running to enable communication between the frontend and backend.
 
-  ###### The frontend will be accessible at http://localhost:5173 and the backend at http://localhost:8080.
+       ###### The frontend will be accessible at http://localhost:5173 and the backend at http://localhost:8080.
 
    
