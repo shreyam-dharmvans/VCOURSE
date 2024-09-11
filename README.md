@@ -10,24 +10,10 @@ This project consists of two parts: a **Frontend** built with React and a **Back
    
    **git clone https://github.com/shreyam-dharmvans/VCOURSE.git**
 
-   **cd ALMENO_TASK**
+   **cd VCOURSE**
    
 
-2. ##### Open two terminals:
-   ###### One for Frontend and one for running Backend
-
-3. ##### In the first terminal (Backend):
-
-       ###### Navigate to the Backend folder using Command:
-         cd Backend
-
-       ###### Install Dependencies using Command:
-         npm install
-
-       ###### Start the backend server using Command:
-         nodemon app.js
-
-4.  ##### In the second terminal (Frontend):
+2. ##### Open the VS Code terminal:
 
        ###### Navigate to the frontend folder using Command:
          cd Frontend
@@ -43,7 +29,7 @@ This project consists of two parts: a **Frontend** built with React and a **Back
 
 6. ##### Notes
 
-    ###### Ensure both terminals are running to enable communication between the frontend and backend.
+    ###### Backend is hosted on render.com and can be accessed using link https://vcourse.onrender.com
  
        
 

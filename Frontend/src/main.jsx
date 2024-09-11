@@ -8,8 +8,8 @@ import axios from 'axios'
 import { Provider } from 'react-redux'
 import { store } from './store/store.js'
 
-//https://backend.onrender.com
-axios.defaults.baseURL = 'http://localhost:8080';
+
+axios.defaults.baseURL = 'https://vcourse.onrender.com';
 axios.defaults.withCredentials = true;
 
 createRoot(document.getElementById('root')).render(
