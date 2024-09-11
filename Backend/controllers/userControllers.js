@@ -137,12 +137,12 @@ export const signup = async (req, res) => {
             signed: true
         })
 
-        newUser = await User.findOne({ email }).populate('enrolledCourses').populate('completedCourses');
+        let NewUser = await User.findOne({ email }).populate('enrolledCourses').populate('completedCourses');
 
         return res.status(200).json({
             success: true,
             message: "user successfully registered",
-            user: newUser
+            user: NewUser
         })
 
     } catch (error) {
