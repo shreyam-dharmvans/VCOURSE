@@ -32,11 +32,13 @@ This project consists of two parts: a **Frontend** built with React and a **Back
        ###### Start the frontend server using Command:
           npm run dev
 
-5. ##### Notes
+5. ##### The Website will be accessible at 
+       ###### http://localhost:5173 
 
-       ###### Ensure both terminals are running to enable communication between the frontend and backend.
+6. ##### Notes
 
-       ###### The frontend will be accessible at http://localhost:5173 
+    ###### Ensure both terminals are running to enable communication between the frontend and backend.
+ 
        
 
    
