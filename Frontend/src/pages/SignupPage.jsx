@@ -36,7 +36,7 @@ export const SignupPage = () => {
             if (res.status == 200) {
                 toast.success("Signed up", { id: "create" });
                 dispatch(userActions.setCourses(res.data.user));
-                navigate("/");
+                navigate("/login");
 
             }
         } catch (err) {
