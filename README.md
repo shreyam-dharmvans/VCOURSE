@@ -30,6 +30,19 @@ This project consists of two parts: a **Frontend** built with React and a **Back
 6. ##### Notes
 
     ###### Backend is hosted on render.com and can be accessed using link https://vcourse.onrender.com
+    ###### Since I am using Free Tier, so server can take some time to respond on first time.
+    ###### To run backend locally:
+    ###### 1. Create a .env file inside Backend Folder
+    ###### 2. Create 3 key-value pairs
+
+    ###### 3. Create a url for MongoDB database on Mongo Atlas site and replace your_url with mongo db url
+    ######    MONGO_URL= your_url
+    ######    JWT_SECRET=alkdjgirjeiwjgkjfkdskfdljei
+    ######    COOKIE_SECRET=alskdjfdsklfklasfjek
+
+    ###### 4. In main.jsx file inside src folder
+    ######    replace  axios.defaults.baseURL = 'https://vcourse.onrender.com'; 
+    ######    with axios.defaults.baseURL = 'http://localhost:8080';
  
        
 
